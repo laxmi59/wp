@@ -1,0 +1,107 @@
+/* CSS Document */
+#affiliateBannerContainer{
+	width:800px;
+	margin-top:50px;
+	left:180px;
+	/*border:1px solid #ccc;
+	position:absolute;*/
+}
+
+#affiliateBannerContainer .buttonlinks {
+	height:50px;
+}
+#affiliateBannerContainer .buttonlinks a{
+	font-size:15px;
+	border:1px solid #ccc;
+	/*background:#ccc;*/
+	padding:5px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#000;
+}
+#affiliateBannerContainer .buttonlinks a:hover{
+	font-size:15px;
+	border:1px solid #ccc;
+	background:#ccc;
+	padding:5px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#000;	
+}
+
+.slidingDiv {
+    height:80px;
+    padding:20px;
+    margin-top:10px;
+    border-bottom:5px solid #CCC;
+}
+ ul {
+	margin: 0;
+}
+
+#contentWrap {
+	width: 780px;
+	margin: 0 auto;
+	height: auto;
+	overflow: hidden;
+}
+
+#contentTop {
+	width: 600px;
+	padding: 10px;
+	margin-left: 30px;
+}
+
+#contentLeft {
+	float: left;
+	width: 200px;
+}
+
+#contentLeft li {
+	list-style: none;
+	color:#000;
+}
+
+.namestyle{
+    padding: 15px;
+}
+	
+
+#contentRight {
+	float: right;
+	width: 260px;
+	padding:10px;
+	background-color:#336600;
+	color:#FFFFFF;
+}
+.positionstyle{
+position:absolute; 
+left:0; 
+top: 10px;
+
+}
+.namestyle{
+position:absolute; 
+left:0; 
+top: 10px;
+left:400px;
+padding:0 15px;
+
+}
+.sor-img{
+ margin-left:200px;
+ top: 10px;
+ border:1px solid #ccc;
+ padding:10px;
+ width: 150px;
+}
+.viewSlidingDiv{
+border-bottom:2px solid #CCC;
+width:700px;
+padding:30px 0;
+}
+.mceIframeContainer iframe{
+height:300px !important;
+}
+
+
